@@ -8,6 +8,6 @@ Our web application is a music streaming platform which connects the user to the
 
 #### Members
 
--CHIORNITA Mario-Gabriel
--PODOREANU Bianca
--SAMOILA Claudia-Nicoleta
+-CHIORNITA Mario-Gabriel 1231A<br>
+-PODOREANU Bianca 1231A<br>
+-SAMOILA Claudia-Nicoleta 1231A<br>
