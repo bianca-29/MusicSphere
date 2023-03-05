@@ -5,3 +5,9 @@ Our web application is a music streaming platform which connects the user to the
 -users can stream audio files<br>
 -users can make playlists<br>
 -artists can add music to their profile<br>   
+
+#### Members
+
+-CHIORNITA Mario-Gabriel
+-PODOREANU Bianca
+-SAMOILA Claudia-Nicoleta
